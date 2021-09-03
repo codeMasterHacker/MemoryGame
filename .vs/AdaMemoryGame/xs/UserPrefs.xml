@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9DE43C14-4996-89E3-E80C-A5D6D93DEC2A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MemoryGameScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HangmanGameController.cs" Line="219" Column="6" />
+      <File FileName="Assets/Scripts/TileGameControllerScript.cs" Line="35" Column="67" />
+      <File FileName="Assets/Scripts/MemoryGameScript.cs" Line="7" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdaMemoryGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MemoryGameScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd9630ef-e32f-4b2a-b6b9-3f1119109d42" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
